@@ -1,0 +1,2 @@
+# OriginXAutoFunction
+A Minecraft Plugin
